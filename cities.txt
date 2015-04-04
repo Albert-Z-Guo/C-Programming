@@ -1,0 +1,115 @@
+Richmond			,	KY	,		31809		,	SE	,	40475
+Irvington			,	KY	,		1192		,	SE	,	40146
+NEW YORK 			,	NY	,		8244910		,	NE	,	10011
+LITTLE ROCK			,	AR	,		193524		,	SE	,	72201
+OKLAHOMA CITY		,	OK	,		596742		,	SW	,	73101
+CHICAGO				,	IL	,		2707120		,	MW	,	60602
+Hanover				,	PA	,		15348		,	NE	,	17331
+Oxford				,	NC	,		8469		,	SE	,	27565
+COLUMBIA			,	TN	,		34915		,	SW	,	38401
+Rome				,	GA	,		36181		,	SE	,	30161
+Atlanta				,	GA	,		432427		,	SE	,	30301
+DENVER				,	CO	,		619968		,	SW	,	80204
+LOS ANGELES			,	CA	,		3819702		,	SW	,	90012
+LAS VEGAS			,	NV	,		589317		,	SW	,	89101
+Brooks				,	KY	,		2678		,	SE	,	40109
+Midway				,	KY	,		1620		,	SE	,	40347
+ROCHESTER			,	NY	,		210855		,	NE	,	14623
+Chesapeake			,	VA	,		225050		,	SE	,	23322
+Glendale			,	AZ	,		230482		,	SE	,	85301
+Stockton			,	CA	,		296357		,	NW	,	95202
+TULSA				,	OK	,		396466		,	SE	,	74103
+MINNEAPOLIS			,	MN	,		387753		,	MW	,	55415
+BOISE				,	ID	,		210145		,	NW	,	83702
+ROCKForD			,	IL	,		152222		,	MW	,	61104
+WICHITA				,	KS	,		384445		,	SE	,	67202
+TOPEKA				,	KS	,		128188		,	SE	,	66603
+COLUMBIA			,	SC	,		130591		,	SE	,	29201
+Hanover				,	MD	,		12780		,	NE	,	21076
+VIRGINIA BEACH		,	VA	,		442707		,	SE	,	23456
+AURORA				,	IL	,		180569		,	MW	,	60502
+SAINT pAUL			,	MN	,		288448		,	MW	,	55102
+NEW ORLEANS			,	LA	,		369250		,	SE	,	70112
+SAN ANTONIO			,	TX	,		1327407		,	SW	,	78023
+Waterbury			,	CT	,		110366		,	NE	,	06701
+Lakewood			,	CA	,		80634		,	SW	,	90712
+Sunnyvale			,	CA	,		142287		,	SW	,	94086
+Bellevue			,	WA	,		124798		,	NW	,	98004
+Newark				, 	NJ	,		277140		,	NE	,	07101	
+Worcester			,	MA	,		181045		,	NE	,	01601
+TOLEDO				,	OH	,		286038		,	MW	,	43604
+CHULA VISTA			,	CA	,		247535		,	NW	,	91910
+Hartford			,	CT	,		124775		,	NE	,	06110
+Lowell				,	MA	,		106519		,	NE	,	01850
+Springfield			,	MA	,		153060		,	NE	,	01101
+Pittsburgh			,	PA	,		307484		,	NE	,	15106
+Allentown			,	PA	,		118032		,	NE	,	18101
+Bridgeport			,	CT	,		145638		,	NE	,	06601
+Philadelphia		,	PA	,		1526006		,	NE	,	19100
+New Haven			,	CT	,		129779		,	NE	,	06501
+Stamford			,	CT	,		122643		,	NE	,	06912
+FLINT				,	MI	,		101558		,	MW	,	48502
+Manchester			,	NH	,		109830		,	NE	,	03101
+Yonkers				,	NY	,		195976		,	NE	,	10701
+SURPRISE			,	AZ	,		119489		,	SE	,	85378
+Baltimore			,	MD	,		619493		,	NE	,	21202
+Vienna				,	DC	,		15964		,	NE	,	22180
+Rochester			,	MN	,		107890		,	MW	,	55904
+IOWA CitY			,	IA	,		67862		,	MW	,	52240
+DES MOINES			,	IA	,		203433		,	MW	,	50301
+Boston				,	MA	,		625087		,	NE	,	02201
+Providence			,	RI	,		178042		,	NE	,	02901
+Erie				,	PA	,		101807		,	NE	,	16501
+DULUTH				,	MN	,		86277		,	MW	,	55801
+SIOUX FALLS			,	SD	,		153888		,	MW	,	57100
+FARGO				,	ND	,		105549		,	MW	,	58102
+BILLINGS			,	MT	,		104170		,	NW	,	59101
+Salt Lake City		,	UT	,		189899		,	SW	,	84111
+Eugene				,	OR	,		156929		,	NW	,	97401
+Peoria				,	AZ	,		156637		,	SW	,	85345
+Lakewood			,	CO	,		144406		,	SW	,	80226
+Winchester			,	KY	,		18368		,	SE	,	40391
+Berea				,	KY	,		13763		,	SE	,	40404
+Louisvalle			,	KY	,		602011		,	SE	,	40202
+TUCSON				,	AZ	,		525796		,	SW	,	85701
+SACRAMENTO			,	CA	,		472178		,	SW	,	95814
+SEATTLE				,	WA	,		620778		,	NW	,	98104
+COLORADO SPRINGS	,	CO	,		426388		,	SW	,	80903
+Irvington			,	NJ	,		60695		,	NE	,	07111
+NAPERVILLE			,	IL	,		143939		,	MW	,	60540
+WINSTON-SALEM		,	NC  ,		232385		,	SE	,	27101
+KANSAS CITY			,	MO	,		459787		,	MW	,	64101
+COLUMBUS            ,   GA  ,       194107      ,   SE  ,   31901
+ST LOUIS			,	MO	,		319294		,	MW	,	63101
+SPRINGFIELD			,	MO	,		159498		,	MW	,	65800
+OLATHE				,	KS	,		127907		,	SE	,	66051
+OVERLAND PARK		,	KS	,		173372		,	SE	,	66204
+Oxford				,	OH	,		21444		,	MW	,	45056
+Cambridge			,	MA	,		105162		,	NE	,	02138
+Clinton				,	MD	,		35970		,	NE	,	20735
+Clinton				,	IA	,		26830		,	MW	,	52732
+OMAHA				,	NE	,		408958		,	MW	,	68022
+Manassas			,	VA	,		39300		,	NE	,	20108
+LINCOLN				,	NE	,		258379		,	MW	,	68501
+BATON Rouge			,	LA	,		229553		,	SE	,	70821
+COLUMBIA			,	MS	,		110438		,	MW	,	39429
+HOUSTON				,	TX	,		2100263		,	SW	,	77002
+COLUMBUS            ,   OH  ,       797434      ,   MW  ,   43215
+COLUMBIA			,	MD	,		99615		,	NE	,	21044
+DALLAS				,	TX	,		1197816		,	SW	,	75001
+PHOENIX				,	AZ	,		1469471		,	SW	,	85003
+SAN DIEGO			,	CA	,		1326179		,	SW	,	92101
+PORTLAND			,	OR	,		593820		,	NW	,	97201
+AUSTIN				,	TX	,		820611		,	SW	,	78701
+Bristol				,	VA	,		17750		,	NE	,	24201
+College Park		,	MD	,		30587		,	NE	,	20741
+Marietta			,	GA	,		57357		,	SE	,	30060
+Decatur				,	GA	,		19555		,	SE	,	30031
+Cleveland			,	GA	,		3425		,	SE	,	30528
+Cleveland			,	OH	,		393806		,	MW	,	44101
+Richmond			,	CA	,		15380		,	SW	,	94530
+Buffalo				,	NY	,		261025		,	NE	,	14200
+Syracuse			,	NY	,		145170		,	NE	,	13202
+OAKLAND				,	CA	,		395817		,	SW	,	94612
+AURORA				,	CO	,		332354		,	SW	,	80012
+ANCHORAGE			,	AK	,		295570		,	NW	,	99501
